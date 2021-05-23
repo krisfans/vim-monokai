@@ -186,7 +186,7 @@ call s:h("Identifier",    { "fg": s:green })
 call s:h("Function",      { "fg": s:green })
                          
 call s:h("Statement",     { "fg": s:pink })
-call s:h("Operator",      { "fg": s:pink })
+call s:h("Operator",      { "fg": s:yellow })
 call s:h("Label",         { "fg": s:pink })
 call s:h("Keyword",       { "fg": s:pink })
 "        Conditional"
