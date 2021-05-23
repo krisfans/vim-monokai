@@ -201,7 +201,7 @@ call s:h("PreCondit",     { "fg": s:green })
                            
 call s:h("Special",       { "fg": s:purple })
 call s:h("SpecialChar",   { "fg": s:pink })
-call s:h("Delimiter",     { "fg": s:pink })
+call s:h("Delimiter",     { "fg": s:white })
 call s:h("SpecialComment",{ "fg": s:aqua })
 call s:h("Tag",           { "fg": s:pink })
 "        Debug"
